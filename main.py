@@ -1,2 +1,3 @@
 print("Welcome to the food ordering Chatbot")
-input("What is your name? ")
+name = input("What is your name? ")
+birthday = input("Hello " + name + ", when is your birthday?")
